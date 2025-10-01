@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  /* --font-sans: "Roboto", "Hanuman", "sans-serif"; */
+}
+
+body {
+  /* max-width: 800px; */
+}
+
+#root {
+}
+
+/* Hide scrollbar in Chrome, Safari, and Opera */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
